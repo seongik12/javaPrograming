@@ -23,7 +23,7 @@ public class ScannerEx {
 		System.out.println("독신 여부는 " + single + "입니다.");
 		
 		
-		System.out.println("감사합니다.");
+		System.out.println("감사합니다........");
 		
 		scanner.close(); // scanner 닫기
 	}
